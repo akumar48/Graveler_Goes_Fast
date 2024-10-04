@@ -1,6 +1,6 @@
 # RollerV2B
 
-`rollerv2b.go` is a Go program that simulates rolling dice in sessions and collects statistical information. This README provides instructions on how to run the program using the `go run` command.
+`rollerv2b.go` is a Go program that simulates rolling dice in sessions and collects statistical information. Specifically, this simulates the chances of Graveler surviving a really cursed softlock. This README provides instructions on how to run the program using the `go run` command.
 
 ## Prerequisites
 
